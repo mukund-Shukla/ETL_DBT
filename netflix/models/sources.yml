@@ -1,0 +1,9 @@
+version:2
+
+sources:
+  - name:netflix
+    schema: raw
+    tables:
+      = name: r_movies
+        indentifier: raw_movies
+        
